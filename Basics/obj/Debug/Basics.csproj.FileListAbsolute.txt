@@ -1,0 +1,6 @@
+D:\DummiesProject\Basics\Basics\Basics\bin\Debug\Basics.exe.config
+D:\DummiesProject\Basics\Basics\Basics\obj\Debug\Basics.csprojResolveAssemblyReference.cache
+D:\DummiesProject\Basics\Basics\Basics\bin\Debug\Basics.exe
+D:\DummiesProject\Basics\Basics\Basics\bin\Debug\Basics.pdb
+D:\DummiesProject\Basics\Basics\Basics\obj\Debug\Basics.exe
+D:\DummiesProject\Basics\Basics\Basics\obj\Debug\Basics.pdb
